@@ -1,0 +1,7 @@
+/.repo
+/sources
+./*
+!./Makefile
+!./default.cfg
+!./yocto.conf
+!./README.md
